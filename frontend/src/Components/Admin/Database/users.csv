@@ -1,0 +1,15 @@
+"_id","userId","userName","name","email","phone","type","__v"
+"67d3cc3d2e572c4a82be95bf","U001","admin","admin","admin@la.com","0725577357","admin",0
+"67d3e68465aea38a1be1b321","U004","lakshitha","walallawita","laki@gmail.com","0765999102","owner",0
+"67d3e86165aea38a1be1b327","U005","vinuja","Vinuja ransith","vinuja@gmail.com","0769451554","owner",0
+"67e290f3cee8f8130e2b4f20","U010","test","test","test@test.com","1234567890","customer",0
+"67e456af860a7cff6fd05c41","U012","gunasekara","gunasekara","gunasekara@gmail.com","0770528901","Customer",0
+"67e45720860a7cff6fd05c4e","U013","ravidu","wijesuriya","ravidu@gmail.com","0342248930","Customer",0
+"67e457ef860a7cff6fd05c5a","U014","rashith","miuranga","miuranaga@gmail.com","0770528901","customer",0
+"67e45889860a7cff6fd05c6e","U015","amasha","amasha nethmi","amasha@gmail.com","0771231231","customer",0
+"67e458c2860a7cff6fd05c76","U016","chmara","chamara nuwan","chmara@gmail.com","0773213213","customer",0
+"67e4d945805ed704199e6f15","U017","Dinith","Dinith Vidushan","Vidushan@gmail.com","0711609534","customer",0
+"67e5089a3357eb9ccafdf359","U018","U002","Ravindu Miyuranga","ravindum@gamail.com","0748885962","customer",0
+"6820dadc8da7d3065097496d","U020","ransith","Vinuja Ransith","vinujaransith@gmail.com","0769451554","Owner",0
+"68248361e33922d771b43244","U022","Ravidu1","Ravidu m","M@gmail.com","0770528901","Owner",0
+"68249d79e33922d771b43410","U023","Ravidu612","Ravidu Miuranaga","Ravidu2002@gmail.com","0770528903","customer",0
